@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TP05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66A11513-DE13-49B0-B867-39BE29DF16A6}|TP05\\TP05.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\tp05\\tp05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66A11513-DE13-49B0-B867-39BE29DF16A6}|TP05\\TP05.csproj|solutionrelative:tp05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66A11513-DE13-49B0-B867-39BE29DF16A6}|TP05\\TP05.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\tp05\\tp05\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A11513-DE13-49B0-B867-39BE29DF16A6}|TP05\\TP05.csproj|solutionrelative:tp05\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TP05\\TP05\\Program.cs",
-              "RelativeDocumentMoniker": "TP05\\Program.cs",
-              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TP05\\TP05\\Program.cs",
-              "RelativeToolTip": "TP05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HaloGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TP05\\TP05\\HaloGeneric.cs",
+              "RelativeDocumentMoniker": "TP05\\HaloGeneric.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TP05\\TP05\\HaloGeneric.cs",
+              "RelativeToolTip": "TP05\\HaloGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T20:21:17.339Z",
+              "WhenOpened": "2025-03-16T20:25:36.189Z",
               "EditorCaption": ""
             }
           ]
