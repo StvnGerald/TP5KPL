@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿using System;
+=======
+﻿/*using System;
+>>>>>>> generic-class
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,3 +29,7 @@ namespace TP05
         }
     }
 }
+<<<<<<< HEAD
+=======
+*/
+>>>>>>> generic-class
